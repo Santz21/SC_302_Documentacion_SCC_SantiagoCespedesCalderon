@@ -1,1 +1,4 @@
-# SC_302_Documentacion_SCC_SantiagoCespedesCalderon
+# SC\_302\_Documentacion\_SCC\_SantiagoCespedesCalderon
+
+&nbsp;  Esta es mi primera práctica con GitHub.
+
